@@ -16,7 +16,7 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-<b>Languages:</b>
+#### <b>Languages:</b>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
@@ -34,9 +34,13 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </a>
 
-<b>Runtime:</b>
+#### <b>Runtime:</b>
 
-
+https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg
+https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=someguy403&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)
 
