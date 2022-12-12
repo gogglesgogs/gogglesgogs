@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there! I'm Gogs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="center" height="150px" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Self-taught+coder;A+Front-end+Developer">
+<img align="center" height="150px" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Front-end+Developer;HyperText+Markup+Language+(HTML);Cascading+Style+Sheets+(CSS);Javascript+(JS)">
 
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px> **About me**
 
