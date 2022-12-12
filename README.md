@@ -2,8 +2,6 @@
 
 <img align="center" height="150px" src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+Mono&size=21&pause=1000&center=true&vCenter=true&width=435&lines=Self-taught+coder;A+Front-end+Developer">
 
-<hr>
-
 ## <img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width=50px> **About me**
 
 <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width=145px>
@@ -16,8 +14,6 @@
 - ...
 
 <br>
-
-<hr>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -84,8 +80,6 @@
 </a>
 
 <img src="./terminal.svg" alt="terminal" height="40" />
-
-<hr>
 
 ## <img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30"><b> Github Stats</b>
 
