@@ -96,9 +96,10 @@
 <hr>
 
 Made by Goggles (@someguy403)
-Credits to:
 
-- Inspirated from [0xabdulkhalid's Profile](https://github.com/0xabdulkhalid/0xabdulkhalid)
+Credits:
+
+- Inspired from [0xabdulkhalid's Profile](https://github.com/0xabdulkhalid/0xabdulkhalid)
 - [Typing Svg](https://readme-typing-svg.herokuapp.com) by [Jonah Lawrence](https://github.com/denvercoder1)
 - [Languages Icons](https://devicon.dev/) by [devicon](https://github.com/devicons)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
