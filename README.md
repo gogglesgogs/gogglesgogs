@@ -83,11 +83,11 @@
 
 ## <img src="https://camo.githubusercontent.com/c0a1ff533f2a741658eb8a0551bd70fb541825ef55f07e8c761aa2795d2e0dfd/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6959384352426451584f444a5343455249722f67697068792e676966" width="30"><b> Github Stats</b>
 
-<img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=someguy403&show_icons=true&theme=dark">
+<img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gogglesgogs&show_icons=true&theme=dark">
 
-<img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=someguy403&layout=compact&theme=dark">
+<img align="center" height="150px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gogglesgogs&layout=compact&theme=dark">
 
-<img src="https://github-profile-trophy.vercel.app/?username=someguy403&theme=onestar">
+<img src="https://github-profile-trophy.vercel.app/?username=gogglesgogs&theme=onestar">
 
 <hr>
 
