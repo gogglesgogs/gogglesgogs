@@ -95,15 +95,17 @@
 
 <hr>
 
-Made by Goggles (@someguy403)
+Made by Goggles (@gogglesgogs)
 
-Credits:
-
-- Inspired from [0xabdulkhalid's Profile](https://github.com/0xabdulkhalid/0xabdulkhalid)
-- [Typing Svg](https://readme-typing-svg.herokuapp.com) by [Jonah Lawrence](https://github.com/denvercoder1)
-- [Languages Icons](https://devicon.dev/) by [devicon](https://github.com/devicons)
-- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra)
-- [Github Trophies](https://github.com/ryo-ma/github-profile-trophy) by [ryo-ma](https://github.com/ryo-ma)
-- [Snake eating the github contribution grid svg](https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg) by [AKSHITA GUPTA](https://github.com/akshitagupta15june)
+<details>
+<summary>Credits:</summary>
+<br>
++ Inspired from [0xabdulkhalid's Profile](https://github.com/0xabdulkhalid/0xabdulkhalid) <br>
++ [Typing Svg](https://readme-typing-svg.herokuapp.com) by [Jonah Lawrence](https://github.com/denvercoder1) <br>
++ [Icons](https://devicon.dev/) by [devicon](https://github.com/devicons) <br>
++ [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats) by [Anurag Hazra](https://github.com/anuraghazra) <br>
++ [Github Trophies](https://github.com/ryo-ma/github-profile-trophy) by [ryo-ma](https://github.com/ryo-ma) <br>
++ [Snake eating the github contribution grid svg](https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg) by [AKSHITA GUPTA](https://github.com/akshitagupta15june) <br>
+</details>
 
 <hr>
