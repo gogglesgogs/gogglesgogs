@@ -7,4 +7,4 @@
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gogglesgogs&show_icons=true&theme=dark) ![Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gogglesgogs&layout=compact&theme=dark)
 
-> @gogglesgogs
+> [@gogglesgogs](https://github.com/gogglesgogs)
