@@ -1,4 +1,5 @@
 ### goggles.gogs
+
 🇻🇳 hung yen, viet nam  
 📚 high school student @ greenfield school  
 👦 i'm a 16 y/o teenager whos good at problem solving and interested in computer science  
@@ -7,4 +8,6 @@
 
 ![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gogglesgogs&show_icons=true&theme=dark) ![Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gogglesgogs&layout=compact&theme=dark)
 
-> [@gogglesgogs](https://github.com/gogglesgogs)
+<samp>
+  Check out my website -> <a href="https://goggles.pages.dev">goggles.pages.dev</a>
+</samp>
