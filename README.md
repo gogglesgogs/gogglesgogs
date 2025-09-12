@@ -2,7 +2,7 @@
 
 🇻🇳 hung yen, viet nam  
 📚 high school student @ greenfield school  
-👦 i'm a 16 y/o teenager whos good at problem solving and interested in computer science  
+👦 i'm a highschooler/teenager whos good at problem solving and interested in computer science  
 🖥 HTML • CSS • Javascript • Nodejs • React • Express  
 🌐 [email ↗️](mailto:ngkhoa0075@gmail.com) [discord ↗️](https://discordapp.com/users/799597159661699112) [support me ↗️](https://ko-fi/gogglesgogs)
 
